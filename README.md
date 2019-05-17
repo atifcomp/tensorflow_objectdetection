@@ -9,3 +9,6 @@ Useful links:
 2.	https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
 3.	https://towardsdatascience.com/understanding-convolutions-using-excel-886ca0a964b7
 
+# my docker with complete setup of tensorflow api
+docker pull atifcomp/tensorflow_cpu
+
